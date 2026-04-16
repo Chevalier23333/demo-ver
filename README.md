@@ -56,7 +56,7 @@ My answer to the question is: There seem to be no significant difference in term
 2. Clone this repository to your local machine
 
     ```bash
-    git@github.com:lse-ds105/mini-project-2-Chevalier23333.git
+    git@github.com:Chevalier23333/demo-ver.git
     ```
 
 3. Create a `.env` file inside `notebooks/` and add your TfL API key:
@@ -68,7 +68,7 @@ My answer to the question is: There seem to be no significant difference in term
 
 4. Download the [ONS Postcode Directory](https://data.london.gov.uk/dataset/postcode-directory-for-london-exp5p/) and save it to the `data/raw/` folder.
 
-5. As you download the demonstration project folder to your machine, set up the file structure as below to run the project:
+5. As you've cloned the demonstration project repository to your local machine, ensure that you have set up the file structure as below to run the project:
    mini-project-2-demo
    |_README.md
    |
